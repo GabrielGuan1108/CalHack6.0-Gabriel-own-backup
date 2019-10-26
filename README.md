@@ -7,4 +7,8 @@ Oct 6th 2019 16:00PM 第一次会议结束:
     Personal task:
     Gabriel:回去会仔细细化他的两个项目（主要是口罩的任务）需要做什么，往下细分task，已经做了什么，这个项目优缺点，etc. 
             有人可以做一下recipe的策划书吗： 需要做什么，怎么做，用什么知识,闪光点/可能遇到的问题etc., 周五/什么时候线上进行一次投票确定项目
- 
+
+Oct 26 2019 16:18 team Sigma
+Project(Design Diet webpage) Describtion: A webpage that help you costomize 
+
+     
