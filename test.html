@@ -6,16 +6,20 @@
 </head>
 
 
-    <body>
-	<!--文本输入框-->
-	<input type="text" id="input">
-	<br>
-	<!--通过点击click按钮，弹窗中显示文本框内用户输入的内容-->
-	<input type="button" value="click" id="btn" οnclick="start()">
+    
+<body>
+	<form action="" name="frm">
+		<!--放在表单中的文本输入框-->
+		<input type="text" id="input1" name="input2" >
+		<br>
+		<!--通过点击click按钮，弹窗中显示文本框内用户输入的内容-->
+		<input type="button" value="click" id="btn" οnclick="start()">
+	</form>
 	<script>
 		function start(){
-			var aa=document.getElementById("input").value;  //通过document.getElementById(“id名”).value来获取value值。
+			var aa=frm.input1.value;  //通过表单中的id获取value值;或者 var aa=frm.input2.value;通过name获取也可以。
 			alert(aa);
+
 		}
 	</script>
 </body>
